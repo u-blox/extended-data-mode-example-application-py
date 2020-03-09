@@ -17,6 +17,7 @@ Script functionality:
 - Enter EDM mode.
 - Start listening for incoming edm packets
 - A menu can be opened by pressing any key (Note! While the menu is open incoming packets are buffered)
+- The menu part only works in DOS prompt on Windows
 ```
 1) Data Command
 2) AT Request
